@@ -1,0 +1,21 @@
+h1{
+    font-family: andalus;
+    letter-spacing: 3px;
+    text-align: center;
+}
+fieldset{
+    width: 27%;
+}
+*{
+    background-color:greenyellow;
+}
+img{
+    height: 120px;
+    padding-top: 50px;
+}
+footer{
+    position: relative;
+    top: 90px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+}
